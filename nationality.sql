@@ -1,1 +1,1 @@
-select * from information_schema.tables;
+select * from information_schema.tables limit 10;
